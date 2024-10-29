@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 // Global variables
-global.owner = [
+global.owner = ['254715182153',
   ['918360234087', 'WHITE', true], 
   ['233208179431', 'Abraham Dwamena', true],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
